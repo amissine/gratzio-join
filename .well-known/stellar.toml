@@ -1,0 +1,15 @@
+[DOCUMENTATION]
+ORG_NAME = "Gratzio"
+ORG_OFFICIAL_EMAIL = "gratzio@gratz.io"
+ORG_TWITTER = "gratz_io"
+ORG_URL = "https://gratz.io"
+
+[[CURRENCIES]]
+code="GRAT"
+conditions="There will only ever be 1 billion GRAT tokens in existence."
+desc  ="Gratz (GRAT) is a utility token powering the Gratzio platform https://gratz.io"
+display_decimals = 2
+image="https://gratz.io/gratz.png"
+issuer="GAJ7V3EMD3FRWAPBEJAP7EC4223XI5EACDZ46RFMY5DYOMCIMWEFR5II"
+name="Gratz"
+
