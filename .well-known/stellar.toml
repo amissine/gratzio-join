@@ -1,15 +1,34 @@
+ACCOUNTS=[
+"GCRT7BHBH6G5HGFFXZP4ZDJSXNO2LAGUMGDFUR4SWEHUW3WMU25GFROO",
+"GA3BMIMG7WCMOBCZAULOYW6DMD4GK5FESI4MA7OYAKR3TOEFFIAXIRCX"
+]
+VERSION="2.0.0"
+
 [DOCUMENTATION]
 ORG_NAME = "Gratzio"
+ORG_URL = "https://gratz.io"
+ORG_LOGO="https://gratz.io/gratz.png"
+ORG_PHYSICAL_ADDRESS="London, UK"
 ORG_OFFICIAL_EMAIL = "gratzio@gratz.io"
 ORG_TWITTER = "gratz_io"
-ORG_URL = "https://gratz.io"
+
+[[PRINCIPALS]]
+name="Sergei Pluev"
+email="spluev@gmail.com"
+github="https://github.com/spluev"
+
+[[PRINCIPALS]]
+name="Alec Missine"
+email="alec_missine@yahoo.com"
+github="https://github.com/amissine"
 
 [[CURRENCIES]]
 code="GRAT"
+issuer="GCRT7BHBH6G5HGFFXZP4ZDJSXNO2LAGUMGDFUR4SWEHUW3WMU25GFROO"
+is_asset_anchored=false
+name="Gratz"
 conditions="There will only ever be 1 billion GRAT tokens in existence."
 desc  ="Gratz (GRAT) is a utility token powering the Gratzio platform https://gratz.io"
 display_decimals = 2
 image="https://gratz.io/gratz.png"
-issuer="GAJ7V3EMD3FRWAPBEJAP7EC4223XI5EACDZ46RFMY5DYOMCIMWEFR5II"
-name="Gratz"
 
