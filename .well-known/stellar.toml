@@ -28,7 +28,6 @@ issuer="GCRT7BHBH6G5HGFFXZP4ZDJSXNO2LAGUMGDFUR4SWEHUW3WMU25GFROO"
 is_asset_anchored=false
 name="Gratz"
 conditions="There will only ever be 1 billion GRAT tokens in existence."
-desc  ="Gratz (GRAT) is a utility token powering the Gratzio platform https://gratz.io"
+desc="Gratz (GRAT) is a utility token powering the Gratzio platform https://gratz.io"
 display_decimals = 2
 image="https://gratz.io/gratz.png"
-
