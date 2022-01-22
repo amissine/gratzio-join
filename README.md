@@ -15,3 +15,5 @@ If the requestor, who already sent the gratitude to the bidder, does not get the
 When a user makes a favor offer, the description of the offer is being broadcast to all other users who are listening for offers at the moment. Those who want to take the offer, ask for the offer and then wait for the offerer to fulfill the ask. One or more fulfilled askers get the offered favor and send the gratitude to the offerer.
 
 If the asker, who already sent the gratitude to the offerer,does not get the offered favor from the offerer, the asker opens the dispute case with the agent. If the offerer is unable to prove to the agent the delivery of the favor, the agent confiscates the gratitude from the offerer and sends it back to the asker.
+
+Requestors make requests, offerers make offers; hence they are makers. Accepted bidders take requests, fulfilled askers take offers; hence they are takers. The Gratzio user can be a maker and/or a taker. Or she can be idle.
