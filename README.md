@@ -1,6 +1,12 @@
 # 👷 Reviving Gratzio, the Stellar-based Favor Exchange
 
-The project's goal is to establish a Distributed Autonomous Organization (DAO), whose members (users) exchange favors with each other. The DAO is [Stellar](https://stellar.org/)-based. To join it, the **user** goes to the (QA) website [https://gratzio.w3spaces.com](https://gratzio.w3spaces.com). This results in a request for the **agent** to:
+## The Pitch
+
+Need a ride, but there's no Uber or Lift in the vicinity? No problem! Use Gratzio - make a request! Selling your place and no Zillow in your area? No problem! Use Gratzio - make an offer! Have some fresh catch to share with your neighbors? Use Gratzio - make an offer! With Gratzio, you can exchange favors with your neighbors as easily, as around the world. And it is SAFE.
+
+## The Details
+
+The project's goal is to establish a Distributed Autonomous Organization (DAO), whose members (users) exchange favors with each other. The DAO is [Stellar](https://stellar.org/)-based. To join it, the **user** goes to the (demo) website [https://gratzio.w3spaces.com](https://gratzio.w3spaces.com). This results in a request for the **agent** to:
 
 - create a Stellar account for the user;
 - create a trustline from this account to the project's **GRAT issuer**;
