@@ -27,3 +27,7 @@ Requestors make requests, offerers make offers; hence they are makers. Accepted 
 ### The Make Flowcharts
 
 ![Make Flowcharts](./make-flowcharts.png "Shoot 1")
+
+## See also
+
+[GDF Mandate](https://github.com/amissine/gratzio/blob/main/GDF.md)
