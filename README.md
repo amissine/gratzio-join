@@ -31,4 +31,5 @@ Requestors make requests, offerers make offers; hence they are makers. Accepted 
 ## See also
 
 [GDF Mandate](https://github.com/amissine/gratzio/blob/main/GDF.md)
+
 [Gratzio TESTNET Demo Part 1, silent](https://youtu.be/_lPtvGTF7yo)
