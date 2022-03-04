@@ -13,13 +13,13 @@ ORG_OFFICIAL_EMAIL = "gratzio@gratz.io"
 ORG_TWITTER = "gratz_io"
 
 [[PRINCIPALS]]
-name="Sergei Pluev"
+name="Sergiy Pluev"
 email="spluev@gmail.com"
 github="https://github.com/spluev"
 
 [[PRINCIPALS]]
-name="Alec Missine"
-email="alec_missine@yahoo.com"
+name="Did Alik"
+email="didalik.aim@gmail.com"
 github="https://github.com/amissine"
 
 [[CURRENCIES]]
@@ -27,7 +27,7 @@ code="GRAT"
 issuer="GCRT7BHBH6G5HGFFXZP4ZDJSXNO2LAGUMGDFUR4SWEHUW3WMU25GFROO"
 is_asset_anchored=false
 name="Gratz"
-conditions="There will only ever be 1 billion GRAT tokens in existence."
+conditions="There will only ever be 20 billion GRAT tokens in existence."
 desc="Gratz (GRAT) is a utility token powering the Gratzio platform https://gratz.io"
-display_decimals = 2
+display_decimals = 7
 image="https://gratz.io/gratz.png"
