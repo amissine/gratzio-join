@@ -1,0 +1,38 @@
+GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP
+SCMBSJ6J3CNPEEVFJ7PHP5HLLLXBZSVSU4VNF3APCN642NNZKQKYY26G
+- adding and funding a TESTNET bot...
+- bot added to TESTNET, txId 620990d149e7e517c39c9304866df078cd17edffdadf9e9882babb7a0e88c5b9
+- bot funded, txId c6d5df3dd8a3aea9e3dcc951b1ba58bd0f9f572084959852d450bd2185e799e8
+
+- broadcasting request:
+Need a babysitter tomorrow from 6pm to 11pm for 2 kids: boy 3 and girl 7 yo. Can give a ride back home. GRAT 100 obo. - Cheers, Bot 4
+...
+- request broadcasted, balanceId 00000000d01997afe652ab99d3ebf6a4d48ac87abb3cd90dac01acfea4213059eeaaa0cf
+
+- accepting bids for balanceId 00000000d01997afe652ab99d3ebf6a4d48ac87abb3cd90dac01acfea4213059eeaaa0cf...
+494 6309680619982850-2
+{"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/6309680619982850"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=6309680619982850-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=6309680619982850-2"}},"id":"0006309680619982850-0000000002","paging_token":"6309680619982850-2","account":"GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP","type":"claimable_balance_claimant_created","type_i":51,"created_at":"2022-03-14T17:47:30Z","asset":"GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT","balance_id":"000000000feef71375a1dcde0909fbbe2095f54f5ff01d85f1b0e7419ccd4f1b49e3deea","amount":"0.1000000","predicate":{"rel_before":"15"}}
+{
+  _links: {
+    operation: {
+      href: 'https://horizon-testnet.stellar.org/operations/6309680619982850'
+    },
+    succeeds: {
+      href: 'https://horizon-testnet.stellar.org/effects?order=desc&cursor=6309680619982850-2'
+    },
+    precedes: {
+      href: 'https://horizon-testnet.stellar.org/effects?order=asc&cursor=6309680619982850-2'
+    }
+  },
+  id: '0006309680619982850-0000000002',
+  paging_token: '6309680619982850-2',
+  account: 'GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP',
+  type: 'claimable_balance_claimant_created',
+  type_i: 51,
+  created_at: '2022-03-14T17:47:30Z',
+  asset: 'GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT',
+  balance_id: '000000000feef71375a1dcde0909fbbe2095f54f5ff01d85f1b0e7419ccd4f1b49e3deea',
+  amount: '0.1000000',
+  predicate: { rel_before: '15' }
+}
+- exiting makeDemoRequest...
