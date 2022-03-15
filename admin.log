@@ -1,38 +1,46 @@
-GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP
-SCMBSJ6J3CNPEEVFJ7PHP5HLLLXBZSVSU4VNF3APCN642NNZKQKYY26G
+GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O
+SCTVAC3E4SGVBNL44OBLUTB2EI7W264UR3GKVK7HVDAE6CSDOXWU7K3E
 - adding and funding a TESTNET bot...
-- bot added to TESTNET, txId 620990d149e7e517c39c9304866df078cd17edffdadf9e9882babb7a0e88c5b9
-- bot funded, txId c6d5df3dd8a3aea9e3dcc951b1ba58bd0f9f572084959852d450bd2185e799e8
+- bot added to TESTNET, txId 16f6185f8d41aaad089a3e101ce857144b51d87531265c3f34d3dd80bf429f52
+- bot funded, txId d4be8a5f63a9964e368cbfdb2823903e09c18162b54428e7aeefd5f633773d41
 
 - broadcasting request:
 Need a babysitter tomorrow from 6pm to 11pm for 2 kids: boy 3 and girl 7 yo. Can give a ride back home. GRAT 100 obo. - Cheers, Bot 4
 ...
-- request broadcasted, balanceId 00000000d01997afe652ab99d3ebf6a4d48ac87abb3cd90dac01acfea4213059eeaaa0cf
+- request broadcasted, balanceId 000000002d204e5847127caacd4d6f5b90db822014f1477ff6ce5a371a75b39927efe861
 
-- accepting bids for balanceId 00000000d01997afe652ab99d3ebf6a4d48ac87abb3cd90dac01acfea4213059eeaaa0cf...
-494 6309680619982850-2
-{"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/6309680619982850"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=6309680619982850-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=6309680619982850-2"}},"id":"0006309680619982850-0000000002","paging_token":"6309680619982850-2","account":"GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP","type":"claimable_balance_claimant_created","type_i":51,"created_at":"2022-03-14T17:47:30Z","asset":"GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT","balance_id":"000000000feef71375a1dcde0909fbbe2095f54f5ff01d85f1b0e7419ccd4f1b49e3deea","amount":"0.1000000","predicate":{"rel_before":"15"}}
+- accepting bids for balanceId 000000002d204e5847127caacd4d6f5b90db822014f1477ff6ce5a371a75b39927efe861...
+494 6332379522146306-2
+{"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/6332379522146306"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=6332379522146306-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=6332379522146306-2"}},"id":"0006332379522146306-0000000002","paging_token":"6332379522146306-2","account":"GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O","type":"claimable_balance_claimant_created","type_i":51,"created_at":"2022-03-15T01:31:18Z","asset":"GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT","balance_id":"00000000e9de175ec44b849845bb02e4ad9efdd80437b48161a3fdb087582a7f27b4442e","amount":"0.1000000","predicate":{"rel_before":"150"}}
 {
   _links: {
     operation: {
-      href: 'https://horizon-testnet.stellar.org/operations/6309680619982850'
+      href: 'https://horizon-testnet.stellar.org/operations/6332379522146306'
     },
     succeeds: {
-      href: 'https://horizon-testnet.stellar.org/effects?order=desc&cursor=6309680619982850-2'
+      href: 'https://horizon-testnet.stellar.org/effects?order=desc&cursor=6332379522146306-2'
     },
     precedes: {
-      href: 'https://horizon-testnet.stellar.org/effects?order=asc&cursor=6309680619982850-2'
+      href: 'https://horizon-testnet.stellar.org/effects?order=asc&cursor=6332379522146306-2'
     }
   },
-  id: '0006309680619982850-0000000002',
-  paging_token: '6309680619982850-2',
-  account: 'GBQMY6PNLFBYUDDRRO7OIOUSANEU3ENE63GN5S4NOM3AYHKA2VKZBNVP',
+  id: '0006332379522146306-0000000002',
+  paging_token: '6332379522146306-2',
+  account: 'GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O',
   type: 'claimable_balance_claimant_created',
   type_i: 51,
-  created_at: '2022-03-14T17:47:30Z',
+  created_at: '2022-03-15T01:31:18Z',
   asset: 'GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT',
-  balance_id: '000000000feef71375a1dcde0909fbbe2095f54f5ff01d85f1b0e7419ccd4f1b49e3deea',
+  balance_id: '00000000e9de175ec44b849845bb02e4ad9efdd80437b48161a3fdb087582a7f27b4442e',
   amount: '0.1000000',
-  predicate: { rel_before: '15' }
-}
+  predicate: { rel_before: '150' }
+} Bot 4, bidding GRAT 98 on your request. Cheers, Did Alik GBQHNDPDPCBLE6HZRR4HHM7EY4JBICCJY5XZTYQLIFX4ATO53NULGBSH
+- bid accepted; removing request, taking bid, paying bidder...
+- request removed
+- bid taken
+- bot payed GRAT 98.1000000 to bidder
+
+- bot merged to AGENT: GRAT 902.0000000,  userPK GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O
+- bot removed
+
 - exiting makeDemoRequest...
