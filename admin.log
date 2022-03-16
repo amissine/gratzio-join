@@ -1,46 +1,93 @@
-GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O
-SCTVAC3E4SGVBNL44OBLUTB2EI7W264UR3GKVK7HVDAE6CSDOXWU7K3E
+GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST
+SD7NFW4K3ZLIHBYFM2DLOTX5WTDFYMQNQZRO7MVIWUKDC7TOVRHDH3FC
 - adding and funding a TESTNET bot...
-- bot added to TESTNET, txId 16f6185f8d41aaad089a3e101ce857144b51d87531265c3f34d3dd80bf429f52
-- bot funded, txId d4be8a5f63a9964e368cbfdb2823903e09c18162b54428e7aeefd5f633773d41
+- bot added to TESTNET, txId d192f6b9e6dff6216e78759cf09cffc07c7ca4e7cb21bc0df42fdbd9233fa111
+- bot funded, txId 8a1aa6c21695ece58ac08bcd171ea3b21a2083b229cd79f1ec626031d7184792
 
 - broadcasting request:
 Need a babysitter tomorrow from 6pm to 11pm for 2 kids: boy 3 and girl 7 yo. Can give a ride back home. GRAT 100 obo. - Cheers, Bot 4
 ...
-- request broadcasted, balanceId 000000002d204e5847127caacd4d6f5b90db822014f1477ff6ce5a371a75b39927efe861
+- request broadcasted, balanceId 00000000e95eb39801ee5fbd4c5e94f0ffd4861318037c853691ed5bc311033ade4b2b06
 
-- accepting bids for balanceId 000000002d204e5847127caacd4d6f5b90db822014f1477ff6ce5a371a75b39927efe861...
-494 6332379522146306-2
-{"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/6332379522146306"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=6332379522146306-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=6332379522146306-2"}},"id":"0006332379522146306-0000000002","paging_token":"6332379522146306-2","account":"GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O","type":"claimable_balance_claimant_created","type_i":51,"created_at":"2022-03-15T01:31:18Z","asset":"GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT","balance_id":"00000000e9de175ec44b849845bb02e4ad9efdd80437b48161a3fdb087582a7f27b4442e","amount":"0.1000000","predicate":{"rel_before":"150"}}
+- accepting bids for balanceId 00000000e95eb39801ee5fbd4c5e94f0ffd4861318037c853691ed5bc311033ade4b2b06...
+true {
+  account: 'GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST',
+  balanceId: null,
+  cursor: 'now',
+  debug: true,
+  filter: 'claimable_balance_claimant_created',
+  onData: [Function (anonymous)]
+} retry: 1000
+event: open
+data: "hello"
+
+id: 35326106017794-1
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017794"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017794-1"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017794-1"}},"id":"0000035326106017794-0000000001","paging_token":"35326106017794-1","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_removed","type_i":41,"created_at":"2022-03-16T21:48:12Z","name":"data0"}
+
+id: 35326106017794-2
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017794"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017794-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017794-2"}},"id":"0000035326106017794-0000000002","paging_token":"35326106017794-2","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_sponsorship_removed","type_i":68,"created_at":"2022-03-16T21:48:12Z","data_name":"data0","former_sponsor":"GBZ6C2UIJO5LEHNW3KNX4FEWUEYAUDKIWDZKNWQGPM2ROWRB55SZB6QN"}
+
+id: 35326106017795-1
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017795"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017795-1"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017795-1"}},"id":"0000035326106017795-0000000001","paging_token":"35326106017795-1","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_removed","type_i":41,"created_at":"2022-03-16T21:48:12Z","name":"data1"}
+
+id: 35326106017795-2
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017795"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017795-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017795-2"}},"id":"0000035326106017795-0000000002","paging_token":"35326106017795-2","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_sponsorship_removed","type_i":68,"created_at":"2022-03-16T21:48:12Z","data_name":"data1","former_sponsor":"GBZ6C2UIJO5LEHNW3KNX4FEWUEYAUDKIWDZKNWQGPM2ROWRB55SZB6QN"}
+
+
+true {
+  account: 'GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST',
+  balanceId: null,
+  cursor: 'now',
+  debug: true,
+  filter: 'claimable_balance_claimant_created',
+  onData: [Function (anonymous)]
+} id: 35326106017796-1
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017796"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017796-1"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017796-1"}},"id":"0000035326106017796-0000000001","paging_token":"35326106017796-1","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_removed","type_i":41,"created_at":"2022-03-16T21:48:12Z","name":"data2"}
+
+id: 35326106017796-2
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35326106017796"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35326106017796-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35326106017796-2"}},"id":"0000035326106017796-0000000002","paging_token":"35326106017796-2","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"data_sponsorship_removed","type_i":68,"created_at":"2022-03-16T21:48:12Z","data_name":"data2","former_sponsor":"GBZ6C2UIJO5LEHNW3KNX4FEWUEYAUDKIWDZKNWQGPM2ROWRB55SZB6QN"}
+
+
+false {
+  account: 'GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST',
+  balanceId: null,
+  cursor: 'now',
+  debug: true,
+  filter: 'claimable_balance_claimant_created',
+  onData: [Function (anonymous)]
+} id: 35338990919682-2
+data: {"_links":{"operation":{"href":"https://horizon-testnet.stellar.org/operations/35338990919682"},"succeeds":{"href":"https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=35338990919682-2"},"precedes":{"href":"https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=35338990919682-2"}},"id":"0000035338990919682-0000000002","paging_token":"35338990919682-2","account":"GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST","type":"claimable_balance_claimant_created","type_i":51,"created_at":"2022-03-16T21:48:29Z","asset":"GRAT:GDRGWQSQJAACQTV4ITIG23PP2MHKOV4S2HNOHU3DDS5KD3JVXRFBMYEH","balance_id":"000000004aeb0fd632a9f7f9cf4365f54499258bc79b5fd71b80ce014bef581d1f184fd6","amount":"0.1000000","predicate":{"rel_before":"150"}}
+
+
 {
   _links: {
     operation: {
-      href: 'https://horizon-testnet.stellar.org/operations/6332379522146306'
+      href: 'https://horizon-testnet.stellar.org/operations/35338990919682'
     },
     succeeds: {
-      href: 'https://horizon-testnet.stellar.org/effects?order=desc&cursor=6332379522146306-2'
+      href: 'https://horizon-testnet.stellar.org/effects?order=desc&cursor=35338990919682-2'
     },
     precedes: {
-      href: 'https://horizon-testnet.stellar.org/effects?order=asc&cursor=6332379522146306-2'
+      href: 'https://horizon-testnet.stellar.org/effects?order=asc&cursor=35338990919682-2'
     }
   },
-  id: '0006332379522146306-0000000002',
-  paging_token: '6332379522146306-2',
-  account: 'GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O',
+  id: '0000035338990919682-0000000002',
+  paging_token: '35338990919682-2',
+  account: 'GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST',
   type: 'claimable_balance_claimant_created',
   type_i: 51,
-  created_at: '2022-03-15T01:31:18Z',
-  asset: 'GRAT:GBA72LCDDWFHS6JTFFPMZ2OO6S5BATBZEA3L2DFVXHRZYPFZILFIQOLT',
-  balance_id: '00000000e9de175ec44b849845bb02e4ad9efdd80437b48161a3fdb087582a7f27b4442e',
+  created_at: '2022-03-16T21:48:29Z',
+  asset: 'GRAT:GDRGWQSQJAACQTV4ITIG23PP2MHKOV4S2HNOHU3DDS5KD3JVXRFBMYEH',
+  balance_id: '000000004aeb0fd632a9f7f9cf4365f54499258bc79b5fd71b80ce014bef581d1f184fd6',
   amount: '0.1000000',
   predicate: { rel_before: '150' }
-} Bot 4, bidding GRAT 98 on your request. Cheers, Did Alik GBQHNDPDPCBLE6HZRR4HHM7EY4JBICCJY5XZTYQLIFX4ATO53NULGBSH
+} Bot 4, bidding GRAT 98 on your request. Cheers, Did Alik GDCBMUOO56XN5SXWUWJ5FCGDORU343NEDTBLZFG55BWVRRP6ZMCT6COA
 - bid accepted; removing request, taking bid, paying bidder...
 - request removed
 - bid taken
-- bot payed GRAT 98.1000000 to bidder
+- bot paid GRAT 98.1000000 to bidder
 
-- bot merged to AGENT: GRAT 902.0000000,  userPK GAEYJN2UMSGPV7GXIONL6SNTFNNVXFZPYFW7PYTNDWWCJVUXKN7B3Z5O
+- bot merged to AGENT: GRAT 902.0000000,  userPK GCCEQKKC2P7RSYXMX6ZZFBD3GOV4RNHC6HOGTV6JD4UOPBWGR3WOTPST
 - bot removed
 
 - exiting makeDemoRequest...
