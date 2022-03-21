@@ -1,0 +1,127 @@
+- added testIssuer:
+SDV2GVJLXP5WQXIIEMAC2I62I2P4OKCQE3JQ2FYQZUWBNRF7NEBVKRPG GDSGD4QCC6LVH5PMJOSFNNVXMLVEH6YOSQNOPY62UED4G7U5PAHTP5QU f1a92b1276a7daae019540525ee83f236544fac6ac5d4b4afbdcedfc9059f71f
+- added testAgent:
+SDHIHK6NKMXJHATV2RHSPEVHRI54LV5RJU2BZY2Q2J6D5GCQJCLT2ZXC GATRX7XCDSPR7FR63MD5RQQGIBNK4ISF6L6GAB4I4GMT7Q23D5ZHER23 77d7825cf12bd4c9b6a0b42bf3f424f264ae67c4ece69a56e2bbe97544e48f08
+- added testUser:
+SD2YRZRHEUCKBKSKF6UARFONBVOR5FHUC7OCSEYKEFSDJG2RYK4V3FLY GCCIC3YYDOVYJ3YH4EVEUHMWJ5ZMJ33DZJSWJQMJIVTCZ5GY4E7CXGS3 d74c2d953e0bb495aa0beaf37e21531abdb78cd2575e8e1ae518f49e8fd8222d
+
+- testIssuer before clawback: [
+  {
+    balance: '49.9999700',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+]
+- testAgent before clawback: [
+  {
+    balance: '800.0000000',
+    limit: '100000.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    last_modified_ledger: 85292,
+    is_authorized: true,
+    is_authorized_to_maintain_liabilities: true,
+    is_clawback_enabled: true,
+    asset_type: 'credit_alphanum4',
+    asset_code: 'TEST',
+    asset_issuer: 'GDSGD4QCC6LVH5PMJOSFNNVXMLVEH6YOSQNOPY62UED4G7U5PAHTP5QU'
+  },
+  {
+    balance: '29.9999400',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+]
+- testUser before clawback: [
+  {
+    balance: '200.0000000',
+    limit: '1000.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    last_modified_ledger: 85292,
+    is_authorized: true,
+    is_authorized_to_maintain_liabilities: true,
+    is_clawback_enabled: true,
+    asset_type: 'credit_alphanum4',
+    asset_code: 'TEST',
+    asset_issuer: 'GDSGD4QCC6LVH5PMJOSFNNVXMLVEH6YOSQNOPY62UED4G7U5PAHTP5QU'
+  },
+  {
+    balance: '20.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+]
+- testAgent after clawback: [
+  {
+    balance: '700.0000000',
+    limit: '100000.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    last_modified_ledger: 85293,
+    is_authorized: true,
+    is_authorized_to_maintain_liabilities: true,
+    is_clawback_enabled: true,
+    asset_type: 'credit_alphanum4',
+    asset_code: 'TEST',
+    asset_issuer: 'GDSGD4QCC6LVH5PMJOSFNNVXMLVEH6YOSQNOPY62UED4G7U5PAHTP5QU'
+  },
+  {
+    balance: '29.9999400',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+]
+
+- testIssuer after clawback: [
+  {
+    balance: '49.9999600',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+] 3a47b00a0a2e93cff9b3faf1568e661ab4a3a49cd6f980ee9d788d859c310b7e
+- testUser after clawback: [
+  {
+    balance: '100.0000000',
+    limit: '1000.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    last_modified_ledger: 85294,
+    is_authorized: true,
+    is_authorized_to_maintain_liabilities: true,
+    is_clawback_enabled: true,
+    asset_type: 'credit_alphanum4',
+    asset_code: 'TEST',
+    asset_issuer: 'GDSGD4QCC6LVH5PMJOSFNNVXMLVEH6YOSQNOPY62UED4G7U5PAHTP5QU'
+  },
+  {
+    balance: '20.0000000',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+]
+
+- testIssuer after clawback: [
+  {
+    balance: '49.9999500',
+    buying_liabilities: '0.0000000',
+    selling_liabilities: '0.0000000',
+    asset_type: 'native'
+  }
+] 15c95e93c7415a5c79c78c6a7b7fc965ffc62b9c6c0a8777651be5df3a657127
+
+- removed testUser:
+49d879fc702391e02c0a5d68e1bc11372dcea9cf252dd23dfc9072e6d84e30b0
+
+- removed testAgent:
+a41ed0ae6e5c6445b181529f39d1a131ab99388e72adce50f34a8e9897ddf913
+
+- removed testIssuer:
+20d2c4576c8b4fe452eb90aed5c499bad8eb1cf2596bc4e19042326e4b098321
+- exiting testClawbacks...
