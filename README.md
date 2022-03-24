@@ -6,13 +6,13 @@ Need a ride, but there's no Uber or Lift in the vicinity? No problem! Use Gratzi
 
 ## The Details
 
-The project's goal is to establish a Distributed Autonomous Organization (DAO), whose members (**user**s) exchange help offers/requests with each other. The DAO is [Stellar](https://stellar.org/)-based. A DAO user can be either self-paid or sponsored. To become a sponsored user, go to the (TESTNET) website [https://gratzio.w3spaces.com](https://gratzio.w3spaces.com) and accept our invite. This results in a request for the **agent** to:
+The project's goal is to establish a Distributed Autonomous Organization (DAO), whose members (**user**s) exchange help offers/requests with each other. The DAO is [Stellar](https://stellar.org/)-based. A DAO user can be either self-paid or sponsored. To become a sponsored user, go to our (TESTNET) website [https://gratzio.w3spaces.com](https://gratzio.w3spaces.com) and accept our invite. This results in a request for the **agent** to:
 
 - create a Stellar account for the user;
 - create a trustline from this account to the project's **GRAT issuer**;
 - fund the account with the initial amount of the project's asset **GRAT**.
 
-If you already have a Stellar account and want to become a self-paid user, create a trustline from this account to the project's GRAT issuer, then go to DEX and buy some GRAT.
+If you already have a Stellar account and want to become a self-paid user, create a trustline from this account to the project's GRAT issuer, then buy some GRAT (either by using our utilities or by going to DEX). To create a trustline, you can go to our website and enter the public key of your Stellar account.
 
 When the account is funded, its holder can assist other users for more GRAT, and/or send GRAT to other accounts in exchange of help from their holders.
 
