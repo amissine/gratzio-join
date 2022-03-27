@@ -30,6 +30,18 @@ Requestors make requests, offerers make offers; hence they are makers. Accepted 
 
 ![Make Flowcharts](./make-flowcharts.png "Shoot 1")
 
+## Frequently Asked Questions
+
+### How to become a Gratzio user
+
+To become a sponsored user:
+
+- go to our website;
+- select '**Request a special invite**'
+- type your greeting and email, then hit '**Continue**'.
+
+We will send you the invite in an email. You will have to go to our website again, select '**Accept the invite**', copy and paste it, then hit '**Continue**'. We will create your Stellar account and fund it with some initial amount of GRAT. You can now use Gratzio Help Exchange! 
+
 ## See also
 
 [GDF Mandate](https://github.com/amissine/gratzio-join/blob/main/GDF.md)
