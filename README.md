@@ -32,7 +32,7 @@ Requestors make requests, offerers make offers; hence they are makers. Accepted 
 
 ## Frequently Asked Questions
 
-### How to become a Gratzio user
+### How to become a sponsored Gratzio user?
 
 To become a sponsored user:
 
@@ -40,7 +40,31 @@ To become a sponsored user:
 - select '**Request a special invite**'
 - type your greeting and email, then hit '**Continue**'.
 
-We will send you the invite in an email. You will have to go to our website again, select '**Accept the invite**', copy and paste it, then hit '**Continue**'. We will create your Stellar account and fund it with some initial amount of GRAT. You can now use Gratzio Help Exchange! 
+We will send you the invite in an email. You will have to go to our website again, select '**Accept the invite**', copy and paste it, then hit '**Continue**'. We will create your Stellar account and fund it with some initial amount of GRAT. You can now use Gratzio Help Exchange!
+
+### What is the difference between sponsored and self-paid users?
+
+A sponsored user does not pay Stellar fees for her transactions. The Gratzio Agent pays them for her. The flip side of it is Agent's becoming a bottleneck under a heavy load from many users. Also, a sponsored user can use only one device (computer or smartphone) for her transactions.
+
+A self-paid user maintains her Stellar account herself and does not require Agent's signature for all her transactions. Interactions between self-paid users are the fastest. Also, a self-paid user can use more than one device for her transactions.
+
+### How to become a self-paid Gratzio user?
+
+To become a self-paid user:
+
+- go to our website;
+- select '**Store your Stellar Secret Key on this device**';
+- type your greeting and email;
+- copy and paste your SSK;
+- hit '**Continue**'.
+
+### Can a sponsored user become a self-paid one in the future?
+
+Yes, as soon as she has enough XLM to pay for her Stellar transactions.
+
+### Where is my Stellar Secret Key located?
+
+Your SSK never leaves the device (computer or smartphone) you used to become a Gratzio user.
 
 ## See also
 
