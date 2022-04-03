@@ -6,7 +6,7 @@ Need a ride, but there's no Uber or Lift in the vicinity? No problem! Use Gratzi
 
 ## The Details
 
-The project's goal is to establish a Distributed Autonomous Organization (DAO), whose members (**user**s) exchange help offers/requests with each other. The DAO is [Stellar](https://stellar.org/)-based. A DAO user can be either self-paid or sponsored. To become a sponsored user, go to our (TESTNET) website [https://gratzio.alec-missine.workers.dev](https://gratzio.alec-missine.workers.dev) and accept our invite. This results in a request for the **agent** to:
+The project's goal is to establish a set of Distributed Autonomous Organizations, whose members (**user**s) exchange help offers/requests with each other. This set of DAOs is [Stellar](https://stellar.org/)-based. A user can be either self-paid or sponsored. To become a sponsored user, go to our (TESTNET) website [https://gratzio.alec-missine.workers.dev](https://gratzio.alec-missine.workers.dev) and accept our invite. This results in a request for the **agent** to:
 
 - create a Stellar account for the user;
 - create a trustline from this account to the project's **GRAT issuer**;
