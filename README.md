@@ -14,7 +14,7 @@ The project's goal is to establish a set of Distributed Autonomous Organizations
 
 If you already have a Stellar account and want to become a self-paid user, create a trustline from this account to the project's GRAT issuer, then buy some GRAT (either by using our utilities or by going to Stellar DEX). To create a trustline, you can go to our website and enter the public key of your Stellar account.
 
-When the account is funded, its holder can assist other users for more GRAT, and/or send GRAT to other accounts in exchange of help from their holders.
+When the account is funded, its holder can assist other users for more GRAT, and/or send GRAT to other accounts in exchange of help from their holders. It is also possible for the account holder to assist another user for a mere **Promise** to assist other users or herself in the near future.
 
 When a user makes a help request, the description of the request is being broadcast to all other users who are listening for requests at the moment. Those who want to take the request, bid on the request and then wait for the requestor to accept the bid. One or more accepted bidders provide help and receive the gratitude (some amount of GRAT).
 
