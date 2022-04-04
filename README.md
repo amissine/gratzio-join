@@ -56,9 +56,10 @@ To become a self-paid user:
 - select '**Store your Stellar Secret Key on this device**';
 - type your greeting and email;
 - copy and paste your SSK;
+- _(optional, TESTNET only)_ request funding - up to GRAT 1000;
 - hit '**Continue**'.
 
-### Can a sponsored user become a self-paid one in the future?
+### Can a sponsored user become self-paid in the future?
 
 Yes, as soon as she has enough XLM to pay for her Stellar transactions.
 
