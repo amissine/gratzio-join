@@ -57,7 +57,7 @@ To become a self-paid user:
 - type your greeting and email;
 - copy and paste your SSK;
 - _TODO:_ DAOs to join, both new and existing;
-- _(optional, TESTNET only)_ request funding - up to GRAT 999;
+- _(optional, TESTNET only, only once)_ request funding - up to GRAT 999;
 - hit '**Continue**'.
 
 See, for example, [this YouTube video](https://youtu.be/Y8Lia7gIjgM).
