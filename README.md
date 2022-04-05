@@ -56,8 +56,11 @@ To become a self-paid user:
 - select '**Store your Stellar Secret Key on this device**';
 - type your greeting and email;
 - copy and paste your SSK;
-- _(optional, TESTNET only)_ request funding - up to GRAT 1000;
+- _TODO:_ DAOs to join, both new and existing;
+- _(optional, TESTNET only)_ request funding - up to GRAT 999;
 - hit '**Continue**'.
+
+See, for example, [this YouTube video](https://youtu.be/Y8Lia7gIjgM).
 
 ### Can a sponsored user become self-paid in the future?
 
@@ -71,8 +74,8 @@ Your SSK never leaves the device (computer or smartphone) you used to become a G
 
 [GDF Mandate](https://github.com/amissine/gratzio-join/blob/main/GDF.md)
 
-[Gratzio TESTNET Demo Part 1, silent video recording](https://youtu.be/_lPtvGTF7yo)
+[Gratzio TESTNET Demo Part 1, YouTube video](https://youtu.be/_lPtvGTF7yo)
 
-[Gratzio TESTNET Demo Part 2, silent video recording](https://youtu.be/RX0DNZQNDdA)
+[Gratzio TESTNET Demo Part 2, YouTube video](https://youtu.be/RX0DNZQNDdA)
 
-[Gratzio TESTNET Demo Part 3, silent video recording](https://youtu.be/l8jKvAos-KE)
+[Gratzio TESTNET Demo Part 3, YouTube video](https://youtu.be/l8jKvAos-KE)
