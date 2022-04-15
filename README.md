@@ -34,33 +34,47 @@ Requestors make requests, offerers make offers; hence they are makers. Accepted 
 
 ### How to become a sponsored Gratzio user?
 
+👷 WARNING: this feature is not yet available
+
 To become a sponsored user:
 
 - go to our website;
 - select '**Request a special invite**'
 - type your greeting and email, then hit '**Continue**'.
 
-We will send you the invite in an email. You will have to go to our website again, select '**Accept the invite**', copy and paste it, then hit '**Continue**'. We will create your Stellar account and fund it with some initial amount of GRAT. You can now use Gratzio Help Exchange!
+We will send you the invite in an email. You will have to go to our website again, select '**Accept the invite**', copy and paste it, then hit '**Continue**'. We will create your Stellar account and fund it with some initial amount of GRAT. Your Stellar account Secret Key will be stored on your device. You can now use Gratzio Help Exchange!
+
+### How to become a self-paid Gratzio user?
+
+To become a self-paid user, you need an existing Stellar account with some XLM. Your
+
+- greeting, 
+- email, 
+- geolocation, and
+- list of DAOs to join 
+
+will be made public on Stellar Network. This will cost you 1100 stroops (1 stroop = 0.0000001 XLM). Also, your Stellar Secret Key will be stored on your device.
+
+When you join us on Stellar TESTNET, you can also get some GRAT from us - this will cost you 300 stroops.
+
+
+To join:
+
+- go to our website;
+- select '**Store your Stellar Secret Key on this device**';
+- type your greeting and email;
+- copy and paste your SSK;
+- _TODO:_ list DAOs to join, both new and existing;
+- _(optional, TESTNET only, only once)_ request funding - up to GRAT 999;
+- hit '**Continue**'.
+
+See, for example, [this YouTube video](https://youtu.be/Y8Lia7gIjgM).
 
 ### What is the difference between sponsored and self-paid users?
 
 A sponsored user does not pay Stellar fees for her transactions. The Gratzio Agent pays them for her. The flip side of it is Agent's becoming a bottleneck under a heavy load from many users. Also, a sponsored user can use only one device (computer or smartphone) for her transactions.
 
 A self-paid user maintains her Stellar account herself and does not require Agent's signature for all her transactions. Interactions between self-paid users are the fastest. Also, a self-paid user can use more than one device for her transactions.
-
-### How to become a self-paid Gratzio user?
-
-To become a self-paid user:
-
-- go to our website;
-- select '**Store your Stellar Secret Key on this device**';
-- type your greeting and email;
-- copy and paste your SSK;
-- _TODO:_ DAOs to join, both new and existing;
-- _(optional, TESTNET only, only once)_ request funding - up to GRAT 999;
-- hit '**Continue**'.
-
-See, for example, [this YouTube video](https://youtu.be/Y8Lia7gIjgM).
 
 ### Can a sponsored user become self-paid in the future?
 
