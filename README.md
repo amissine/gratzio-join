@@ -93,3 +93,5 @@ Your SSK never leaves the device (computer or smartphone) you used to become a G
 [Gratzio TESTNET Demo Part 2, YouTube video](https://youtu.be/RX0DNZQNDdA)
 
 [Gratzio TESTNET Demo Part 3, YouTube video](https://youtu.be/l8jKvAos-KE)
+
+❓xa
